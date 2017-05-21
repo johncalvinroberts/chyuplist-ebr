@@ -1,0 +1,16 @@
+{
+  "name": "chyuplist-frontend",
+  "version": "1.0.0",
+  "description": "front end for chyuplist",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "backbone": "^1.3.3",
+    "backbone.marionette": "^3.3.1"
+  }
+}
